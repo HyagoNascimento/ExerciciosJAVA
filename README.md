@@ -1,2 +1,2 @@
-# ExerciciosJAVA
-## Repositório direcionado para exercícios JAVA.
+# ExerciciosJAVA ☕
+## Repositório direcionado para estudo de JAVA.
